@@ -1,12 +1,12 @@
 # Lecture-1 Introduction to Python
 
-# ⚠️ gvghfvghvf
+# ⚠️ Warning
 hubsfjbd
 
-# 💡 ghvbhhbghvbh
+# 💡 Hint
 hufbhjdb
 
-# 🧠 vdfgsvgfhjd
+# 🧠 Point To Remeber
 fhgdhubfgj
 
 
