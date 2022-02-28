@@ -12,7 +12,8 @@
  ```
 ## 🏠 HomeWork
 
-* Introduction to Yourself With the help of Print function And use Also \n .
+* Write a python program to give Introduction to Yourself with the help of print function and you can use \n Also.
+
 
 ## 🧠 Explanation of Important Topics
 
