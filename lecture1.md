@@ -4,8 +4,7 @@
 
 * Login to Road To Code Website. See First Recording Leture Of python Course.
 * Install Slack And Login to Slack.
-* Give Your Introduction with Help of Print function And Use \n Also.
-
+* Write a Python Program To give Introduction to Yourself With the help of Print function And use Also \n .
 
 ## 📖 References
 
