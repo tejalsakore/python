@@ -42,6 +42,8 @@ print("Hii \n Good Evening \n Welcome To Python Programming!!")
 
   [Click Here to Download Slack for Desktop](https://slack.com/intl/en-in/downloads/windows)
 
+  [Class Joining link will be the same everyday](https://meet.google.com/gmn-pgdy-tmc)
+
 ## 📖 References
 [Python.org](https://www.python.org/)
 
