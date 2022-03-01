@@ -7,13 +7,14 @@
 
 ## 💁🏻‍♀️ Introduction
 
-<img align="left" src="./assets/../../assets/logo.png" />
+![Python](/assets/logo.png) 
+![GuidoVanRossumImage](guido-vann-rossum.jpg)
 
 Python is an open-source (free) programming language that is used in machine learning, data science, web development, and many scientific applications.
 
 It was created by Guido van Rossum, and released in 1991.
 
-![GuidoVanRossumImage](guido-vann-rossum.jpg)
+
 
 
 
