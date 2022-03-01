@@ -5,6 +5,18 @@
 
 # Lecture-1 Introduction to Python
 
+## 💁🏻‍♀️ Introduction
+
+![Python](/assets/logo.png)
+
+Python is an open-source (free) programming language that is used in machine learning, data science, web development, and many scientific applications.
+
+It was created by Guido van Rossum, and released in 1991.
+
+![GuidoVanRossumImage](guido-vann-rossum.jpg)
+
+
+
 ## 💻 Code Blocks
 
 - Write a Python Program to "Hello World".
@@ -16,20 +28,6 @@
 ```python
 print("Hii \n Good Evening \n Welcome To Python Programming!!")
 ```
-
-## 🧠 Explanation of Important Topics
-
-- Introduction to Python= <br>
-    <!-- Image -->
-
-  ![GuidoVanRossumImage](guido-vann-rossum.jpg)<br>
-  Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
-
-- Usecases Of Python = <br>
-  1.  Machine Learning
-  2.  Software development
-  3.  Web Development
-  4.  Scripting
 
 ## 🏠 HomeWork
 
