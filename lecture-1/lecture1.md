@@ -19,7 +19,7 @@
 
 * Introduction to Python= <br>
     <!-- Image --> 
-    ![GuidoVanRossumImage](guido-van-rossum.jpg)<br>
+    ![GuidoVanRossumImage](guido.jpg)<br>
       Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
 * Usecases Of Python = <br>
