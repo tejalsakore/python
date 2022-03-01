@@ -17,10 +17,6 @@
 print("Hii \n Good Evening \n Welcome To Python Programming!!")
 ```
 
-## 🏠 HomeWork
-
-- Write a python program to give Introduction to Yourself with the help of print function and you can use \n Also.
-
 ## 🧠 Explanation of Important Topics
 
 - Introduction to Python= <br>
@@ -35,7 +31,11 @@ print("Hii \n Good Evening \n Welcome To Python Programming!!")
   3.  Web Development
   4.  Scripting
 
-## 🤔You must know This things
+## 🏠 HomeWork
+
+> Write a program to use `print()` function to print your name, college name and about information. Also use `\n` (newline character) to separate lines.
+
+## 🔗 Some Useful Links
 
   [Click Here to Open Google Collab](https://colab.research.google.com)
 
