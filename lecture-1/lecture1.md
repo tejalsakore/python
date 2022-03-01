@@ -26,7 +26,7 @@ print("Hii \n Good Evening \n Welcome To Python Programming!!")
 - Introduction to Python= <br>
     <!-- Image -->
 
-  ![GuidoVanRossumImage](guido.jpg)<br>
+  ![GuidoVanRossumImage](guido-vann-rossum.jpg)<br>
   Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
 - Usecases Of Python = <br>
