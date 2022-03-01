@@ -7,7 +7,7 @@
 
 ## 💁🏻‍♀️ Introduction
 
-![Python](/assets/logo.png)
+<img align="left" src="./assets/../../assets/logo.png" />
 
 Python is an open-source (free) programming language that is used in machine learning, data science, web development, and many scientific applications.
 
