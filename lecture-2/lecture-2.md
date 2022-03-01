@@ -7,7 +7,7 @@
 
 ## 🏠 HomeWork
 
-* Write a Program To Declare Variables And then store Your Own Information In The Variable Print In a Formatted Way.
+* Write a Program To Declare Variables And then store Your Own Information In The Variable and Print In a Formatted Way.
 
 * Write a Program To Find Data Type Of Three Different Variable.
 
