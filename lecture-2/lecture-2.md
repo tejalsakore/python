@@ -67,6 +67,7 @@ print(val)
 ## 🏠 HomeWork
 
 > Write a program to declare variables and then store your own information in the variable and print in a formatted way.
+
 > Write a program to find data type of three different variable.
 
 ## 🔗 Some Useful Links
