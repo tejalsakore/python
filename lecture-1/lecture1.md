@@ -1,9 +1,9 @@
-# Lecture-1 Introduction to Python
-
 <!-- HEADER -->
 <p align="center">
   <img  src="./../assets/header.png" />
 </p>
+
+# Lecture-1 Introduction to Python
 
 ## 💻 Code Blocks
 
