@@ -37,14 +37,11 @@ print("Hii \n Good Evening \n Welcome To Python Programming!!")
 
 ## 🤔You must know This things
 
-- To OPen Google Colab
-  [clicklink](https://colab.research.google.com/drive/1E_HrrMlqLnK6ujoOZm4jWzHKS3iOQ_ty#updateTitle=true&folderId=1QLlYECd3DyXSZ4Ad63ohgJDG09d-bb46)
+  [Click Here to Open Google Collab](https://colab.research.google.com)
 
-- Download slack from the following
-  [link](https://play.google.com/store/apps/details?id=com.Slack)
+  [Click Here to Download Slack for Android](https://play.google.com/store/apps/details?id=com.Slack)
 
-- Download slack For Dekstop to this
-  [link](https://slack.com/intl/en-in/downloads/windows)
+  [Click Here to Download Slack for Desktop](https://slack.com/intl/en-in/downloads/windows)
 
 ## 📖 References
 
