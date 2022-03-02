@@ -3,7 +3,7 @@
   <img  src="./../assets/header.png" />
 </p>
 
-# Lecture-2 Format Function, Arithmetic Operators in Python
+# Lecture-3 Format Function, Arithmetic Operators in Python
 
 ## What is the format () function in Python?
 The Python format () function formats strings according to the position. 
