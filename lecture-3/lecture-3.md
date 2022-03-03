@@ -5,10 +5,28 @@
 
 # Lecture-3 Format Function, Arithmetic Operators in Python
 
+## End Variable In python
+
+```python
+print("Good Evening",end="\n")
+print("Hello Everyone")
+```
+```python
+print("Good Evening",end=" ")
+print("Hello Everyone")
+```
 ## What is the format () function in Python?
 The Python format () function formats strings according to the position. 
 
 Example=
+
+```python
+x="Vedika"
+y=21
+dob= "01/01/2001"
+print("Hello {} .Your Age is {} .Your DOB is {}". format(x,y,dob))
+```
+
 ```python
 x="Vedika"
 y=21
