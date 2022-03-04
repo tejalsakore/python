@@ -56,7 +56,8 @@ print("sum of {} and {} is {}".format(val1,val2,sum))
 
 ## 🏠 HomeWork
 
->Write a program to calculate bill when rate and quantity is given .
+>Write a program to calculate bill when `rate` and `quantity` is given by user.
+>💡 HINT: use formula `bill` = `rate` * `quantity`, take input for `rate` and `quantity from user.
 
 ## 🔗 Some Useful Links
 
