@@ -3,7 +3,7 @@
   <img  src="./../assets/header.png" />
 </p>
 
-# Lecture-3 User Input & Type Casting in Python
+# Lecture-4 User Input & Type Casting in Python
 
 ## User Input
 
