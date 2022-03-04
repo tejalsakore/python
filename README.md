@@ -6,3 +6,5 @@
 
 ## 👉 [Lecture-3 Format Function, Arithmetic Operators in Python](/lecture-3/lecture-3.md)
 
+## 👉 [Lecture-4 User Input & Type Casting in Python](/lecture-4/lecture-4.md)
+
