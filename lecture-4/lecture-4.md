@@ -3,10 +3,12 @@
   <img  src="./../assets/header.png" />
 </p>
 
-# Lecture-3 User Input & Type Casting in Python
+# Lecture-4 User Input & Type Casting in Python
 
 ## User Input
 
+Python allows for user input.
+That means we are able to ask the user for input.
 input()=To take input from user.
 
 Example=
