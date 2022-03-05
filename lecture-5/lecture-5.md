@@ -3,9 +3,12 @@
   <img  src="./../assets/header.png" />
 </p>
 
-# Lecture-5 Spilt Function, Multiline String ,Length Function,Slicing, In Operator in Python
+# Lecture-5 Split Function, Multiline String ,Length Function,Slicing, In Operator in Python
 
+## IMP Point
+  By Default data type of input function is String.
 
+  ## Spilt Function 
 
 ## 🏠 HomeWork
 
