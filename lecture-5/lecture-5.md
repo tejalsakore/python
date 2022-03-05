@@ -3,7 +3,7 @@
   <img  src="./../assets/header.png" />
 </p>
 
-# Lecture-5 Split Function, Multiline String ,Length Function,Slicing, In Operator in Python
+# Lecture-5 Input for Multiple values And String Operations in Python
 
 ## IMP Point
   By Default data type of input function is String.
