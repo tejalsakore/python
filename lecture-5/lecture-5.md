@@ -92,7 +92,7 @@ print("Pani" in mystring)
 
 >Write a Python program to find area of a rectangle.
 
-💡 HINT: use formula `Area of rectangle` = `length` * `breadth` .
+💡 HINT: use formula `area` = `length` * `breadth` .
 
 >Write a python program to perform all operation on string.
 

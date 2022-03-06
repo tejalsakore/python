@@ -8,3 +8,5 @@
 
 ## 👉 [Lecture-4 User Input & Type Casting in Python](/lecture-4/lecture-4.md)
 
+## 👉 [Lecture-5 Input for Multiple values And String Operations in Python](/lecture-5/lecture-5.md)
+
