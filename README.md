@@ -10,3 +10,7 @@
 
 ## 👉 [Lecture-5 Input for Multiple values And String Operations in Python](/lecture-5/lecture-5.md)
 
+## 👉 [Lecture-6 Comments And String Methods in Python](/lecture-6/lecture-6.md)
+
+## 👉 [Lecture-7 Lists in Python](/lecture-7/lecture-7.md)
+
