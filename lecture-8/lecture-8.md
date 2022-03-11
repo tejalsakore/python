@@ -3,7 +3,7 @@
   <img  src="./../assets/header.png" />
 </p>
 
-# Lecture-7 Tuple in Python
+# Lecture-8 Tuple in Python
 
 ## Tuple
 Tuple are used to store multiple values in a single variable.

@@ -14,3 +14,5 @@
 
 ## 👉 [Lecture-7 Lists in Python](/lecture-7/lecture-7.md)
 
+## 👉 [Lecture-8 Tuples in Python](/lecture-8/lecture-8.md)
+
