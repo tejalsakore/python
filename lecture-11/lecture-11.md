@@ -114,6 +114,7 @@ else :
 ```
 ## 🏠 HomeWork
 >🚁Write a program to check whether applicant is eligible for Driving licence or not using if statments.
+>🛰️Write a program to cheak whether entered number is even ir odd by using if-else statment.
 
 ## 🔗 Some Useful Links
 
