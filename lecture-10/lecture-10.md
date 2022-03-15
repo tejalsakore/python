@@ -3,7 +3,7 @@
   <img  src="./../assets/header.png" />
 </p>
 
-# Lecture-7 Dictionary in Python
+# Lecture-10 Dictionary in Python
 
 ## Dictionary
 

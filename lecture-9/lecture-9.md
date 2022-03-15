@@ -3,7 +3,7 @@
   <img  src="./../assets/header.png" />
 </p>
 
-# Lecture-7 Sets in Python
+# Lecture-9 Sets in Python
 
 ## Tuple
 
