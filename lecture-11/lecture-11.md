@@ -9,7 +9,7 @@
 
 Comparison operators are to test the condition. The conditional operator result as boolean True or False.
 
-* equals to (==)
+ #### equals to (==)
 
 This operator returns True if both the operands are equal.if both the left and the right operand are equal to each other.
 ```python
@@ -20,7 +20,7 @@ print(result)
 ```
 💻Above code will result as : True  
 
-* less than ( < )
+#### less than ( < )
 
 This operator returns True if the left operand is less than the right operand.
 
@@ -32,7 +32,7 @@ print(result)
 ```
 💻Above code will result as : True  
 
-* greater than ( > )
+#### greater than ( > )
 
 This operator returns True if the left operand is greater than the right operand.
 ```python 
@@ -43,7 +43,7 @@ print(result)
 ```
 💻Above code will result as : True  
 
-* less than or equal to ( <= )
+#### less than or equal to ( <= )
 
 This operator returns True if the left operand is less than or equal to the right operand.
 ```python
@@ -54,7 +54,7 @@ print(result)
 ```
 💻Above code will result as : True  
 
-* greater than or equal to ( >= )
+#### greater than or equal to ( >= )
 
 This operator returns True if the left operand is greater than or equal to the right operand.
 ```python
@@ -65,7 +65,7 @@ print(result)
 ```
 💻Above code will result as : True 
 
-* not equal to (!=)
+#### not equal to (!=)
 
 This operator returns True if both the operands are not equal.
 ```python
@@ -90,7 +90,7 @@ Python relies on indentation (whitespace at the beginning of a line) to define s
 
 ## Conditional Statements
 
-* if Statement=
+#### if Statement=
  ```python
  Syntax=
  if condition :
@@ -109,7 +109,7 @@ if a==b:
 ```
 💻Above code will result as : A is Equals to B
 
-* if--else Statements
+#### if--else Statements
 ```python
 if condition :
      statements-1
@@ -146,7 +146,7 @@ else :
 💻Above code will result as : A is greater than B
 
 
-###  💡Difference between = and == operators in Python
+#### 💡Difference between = and == operators in Python
 
 The “ = ” is an assignment operator is used to assign the value on the right to the variable on the left. 
 
