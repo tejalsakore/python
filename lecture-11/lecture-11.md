@@ -145,15 +145,18 @@ else :
 ```
 💻Above code will result as : A is greater than B
 
-## 🏠 HomeWork
->🚁Write a program to check whether applicant is eligible for voting or not using if statments.
->🛰️Write a program to cheak whether entered number is even ir odd by using if-else statment.
 
 ###  💡Difference between = and == operators in Python
 
 The “ = ” is an assignment operator is used to assign the value on the right to the variable on the left. 
 
 The ‘==’ operator checks whether the two given operands are equal or not.
+
+## 🏠 HomeWork
+>🚁Write a program to check whether applicant is eligible for voting or not using if statments.
+
+
+>🛰️Write a program to cheak whether entered number is even ir odd by using if-else statment.
 
 ## 🔗 Some Useful Links
 
