@@ -9,54 +9,80 @@
 
 Comparison operators are to test the condition. The conditional operator result as boolean True or False.
 
-### Difference between = and == operators in Python
-
-The “ = ” is an assignment operator is used to assign the value on the right to the variable on the left. 
-
-The ‘==’ operator checks whether the two given operands are equal or not.
-
 * equals to (==)
+
+This operator returns True if both the operands are equal.if both the left and the right operand are equal to each other.
 ```python
 a=10
 b=10
 result= a==b
 print(result)
 ```
+💻Above code will result as : True  
+
 * less than ( < )
+
+This operator returns True if the left operand is less than the right operand.
+
 ```python
 a=10
 b=20
 result= a<b
 print(result)
 ```
+💻Above code will result as : True  
+
 * greater than ( > )
+
+This operator returns True if the left operand is greater than the right operand.
 ```python 
 a=30
 b=20
 result= a>b
 print(result)
 ```
+💻Above code will result as : True  
+
 * less than or equal to ( <= )
+
+This operator returns True if the left operand is less than or equal to the right operand.
 ```python
 a=10
 b=20
 result= a<=b
 print(result)
 ```
+💻Above code will result as : True  
+
 * greater than or equal to ( >= )
+
+This operator returns True if the left operand is greater than or equal to the right operand.
 ```python
 a=50
 b=20
 result= a>=b
 print(result)
 ```
-* not equal to 
+💻Above code will result as : True 
+
+* not equal to (!=)
+
+This operator returns True if both the operands are not equal.
 ```python
 a=50
 b=20
 result= a!=b
 print(result)
 ```
+💻Above code will result as : True 
+
+```python
+a=20
+b=20
+result= a!=b
+print(result)
+```
+💻Above code will result as : False
 
 ## Indentation
 
@@ -81,6 +107,8 @@ b=20
 if a==b:
   print("A is Equals to B ")
 ```
+💻Above code will result as : A is Equals to B
+
 * if--else Statements
 ```python
 if condition :
@@ -104,6 +132,8 @@ if a==b:
 else :
    print("B is Unequals to A ")
 ```
+💻Above code will result as : B is Unequals to A
+
 ```python
 a=50
 b=30
@@ -112,9 +142,17 @@ if a>b:
 else :
   print("B is greater than to A ")
 ```
+💻Above code will result as : A is greater than B
+
 ## 🏠 HomeWork
 >🚁Write a program to check whether applicant is eligible for voting or not using if statments.
 >🛰️Write a program to cheak whether entered number is even ir odd by using if-else statment.
+
+###  💡Difference between = and == operators in Python
+
+The “ = ” is an assignment operator is used to assign the value on the right to the variable on the left. 
+
+The ‘==’ operator checks whether the two given operands are equal or not.
 
 ## 🔗 Some Useful Links
 
