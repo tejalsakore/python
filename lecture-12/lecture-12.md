@@ -5,28 +5,6 @@
 
 # Lecture-12 If else Ladder in Python
 
-> 🚁 Write a program to cheak whether entered number is even ir odd by using if-else statment.
-```python
-program=
-
-num=int(input("Enter Number :"))
-rem=num%2
-if rem==0:
-  print("Given Number is Even")
-else:
-  print("Given Number is Odd")
-```
-> 🛰️Write a program to check whether applicant is eligible for voting or not using if statments.
-
-```python
-program=
-
-age=int(input("Enter Your age :"))
-if age>=18:
-  print("You are eligible for Voting")
-else:
-  print("You are not eligible for Voting")
-```
 > 🚁Write a program which asks user to enter rate and quantity of a product. Your program should calculate and display the the bill amount as rate * quantity. If bill amount is more than 500 discount of 20% on bill and less than 500 then discount of 5% on bill.
 
 ```python
