@@ -18,3 +18,10 @@
 
 ## 👉 [Lecture-9 Sets](/lecture-9/lecture-9.md)
 
+## 👉 [Lecture-10 Sets](/lecture-10/lecture-10.md)
+
+## 👉 [Lecture-11 If, Elif](/lecture-11/lecture-11.md)
+
+## 👉 [Lecture-12 If else Ladder in Python](/lecture-12/lecture-12.md)
+
+## 👉 [Lecture-13 Logical Operators in Python](/lecture-13/lecture-13.md)

@@ -3,7 +3,7 @@
   <img  src="./../assets/header.png" />
 </p>
 
-# Lecture-11 Comparison/Relational Operators,Indentation,Conditional Statements(if,if--else) in Python
+# Lecture-11 If, Elif in Python
 
 ## Comparison/Relational Operators
 
