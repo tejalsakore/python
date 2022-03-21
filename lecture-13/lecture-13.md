@@ -5,55 +5,6 @@
 
 # Lecture-13 Logical Operators in Python
 
-> 🚁Write a program to take input for marks of 5 subject and display the grade.
-
-💡 HINT : Per=(total/500)*100
-
-* If the percentage  greater than 90 “Grade: A” is printed.
-* If the percentage  greater than 80 “Grade: B” is printed.
-* If the percentage  greater than 70 “Grade: C” is printed.
-* If the percentage  greater than 60 “Grade: D” is printed.
-* otherwise , Fail is Printed.
-```python
-👨‍💻 program=
-
-marathi,hindi,english,math,science= input("Enter Marks of 5 Subject").split()
-sum=int(marathi)+int(hindi)+int(english)+int(math)+int(science)
-per=(sum/500)*100
-print("Percentage :",per,"%")
-if per>=90:
-  print("Grade A")
-elif per>=80:
-  print("Grade B")
-elif per>=70:
-  print("Grade c")
-elif per>=60:
-  print("Grade D")
-else:
-  print("FAIl")
-
-💻Above code will result as : 
-
-Enter Marks of 5 Subject: 91 92 93 94 95
-Percentage : 93.0 %
-Grade A
-
-Enter Marks of 5 Subject : 81 84 85 88 84
-Percentage : 84.399 %
-Grade B
-
-Enter Marks of 5 Subject : 74 74 71 71 73
-Percentage : 72.6 %
-Grade c
-
-Enter Marks of 5 Subject : 66 67 65 64 63 
-Percentage : 65.0 %
-Grade D
-
-Enter Marks of 5 Subject : 35 42 20 23 31
-Percentage : 30.2 %
-FAIl
-```
 
 * If the condition sequence will change , then output will also change.👇👇 Because we have not set any boundary conditions.
 
