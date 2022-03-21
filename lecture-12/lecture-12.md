@@ -123,7 +123,7 @@ else:
 ```
 
 ## 🏠 HomeWork
->🚁Write a program to take input for marks of 5 subject and display the grade.
+>1️⃣ Write a program to take input for marks of 5 subject and display the grade.
 
 💡 HINT : Per=(total/500)*100
 
@@ -135,7 +135,7 @@ else:
 
 <details>
   <summary>👁 Show Answer</summary>
-  
+
   <p>
 
   📝 Code:
