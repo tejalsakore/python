@@ -18,7 +18,9 @@ b=10
 result= a==b
 print(result)
 ```
-💻Above code will result as : True  
+
+⚙️ Output:
+>True  
 
 #### less than ( < )
 
@@ -30,7 +32,9 @@ b=20
 result= a<b
 print(result)
 ```
-💻Above code will result as : True  
+
+⚙️ Output:
+>True  
 
 #### greater than ( > )
 
@@ -41,7 +45,9 @@ b=20
 result= a>b
 print(result)
 ```
-💻Above code will result as : True  
+
+⚙️ Output:
+>True  
 
 #### less than or equal to ( <= )
 
@@ -52,7 +58,9 @@ b=20
 result= a<=b
 print(result)
 ```
-💻Above code will result as : True  
+
+⚙️ Output:
+>True  
 
 #### greater than or equal to ( >= )
 
@@ -63,7 +71,9 @@ b=20
 result= a>=b
 print(result)
 ```
-💻Above code will result as : True 
+
+⚙️ Output:
+>True
 
 #### not equal to (!=)
 
@@ -74,7 +84,9 @@ b=20
 result= a!=b
 print(result)
 ```
-💻Above code will result as : True 
+
+⚙️ Output:
+>True
 
 ```python
 a=20
@@ -82,7 +94,9 @@ b=20
 result= a!=b
 print(result)
 ```
-💻Above code will result as : False
+
+⚙️ Output:
+>False
 
 ## Indentation
 
@@ -90,9 +104,9 @@ Python relies on indentation (whitespace at the beginning of a line) to define s
 
 ## Conditional Statements
 
-#### if Statement=
+#### if Statement
+**Syntax:**
  ```python
- Syntax=
  if condition :
      statements-1
      statements-2
@@ -100,16 +114,20 @@ Python relies on indentation (whitespace at the beginning of a line) to define s
      .....
      statements-n
 ```
+
+**Example:**
 ```python
-Example=
 a=20
 b=20
 if a==b:
   print("A is Equals to B ")
 ```
-💻Above code will result as : A is Equals to B
+
+⚙️ Output:
+>A is Equals to B
 
 #### if--else Statements
+**Syntax:**
 ```python
 if condition :
      statements-1
@@ -124,8 +142,9 @@ else:
      .....
      statements-n
 ```
+
+**Example:**
 ```python
-Example=
 a=20
 b=30
 if a==b:
@@ -133,7 +152,8 @@ if a==b:
 else :
    print("B is Unequals to A ")
 ```
-💻Above code will result as : B is Unequals to A
+ ⚙️ Output:
+ >B is Unequals to A
 
 ```python
 a=50
@@ -143,7 +163,8 @@ if a>b:
 else :
   print("B is greater than to A ")
 ```
-💻Above code will result as : A is greater than B
+⚙️ Output:
+>A is greater than B
 
 #### 💡Difference between = and == operators in Python
 
