@@ -135,22 +135,26 @@ else:
 
 <details>
   <summary>👁 Show Answer</summary>
+  
   <p>
+
+  📝 Code:
+
   ```python
-        marathi,hindi,english,math,science= input("Enter Marks of 5 Subject").split()
-        sum=int(marathi)+int(hindi)+int(english)+int(math)+int(science)
-        per=(sum/500)*100
-        print("Percentage :",per,"%")
-        if per>=90:
-          print("Grade A")
-        elif per>=80:
-          print("Grade B")
-        elif per>=70:
-          print("Grade c")
-        elif per>=60:
-          print("Grade D")
-        else:
-          print("FAIl")
+  marathi,hindi,english,math,science= input("Enter Marks of 5 Subject").split()
+  sum=int(marathi)+int(hindi)+int(english)+int(math)+int(science)
+  per=(sum/500)*100
+  print("Percentage :",per,"%")
+  if per>=90:
+    print("Grade A")
+  elif per>=80:
+    print("Grade B")
+  elif per>=70:
+    print("Grade c")
+  elif per>=60:
+    print("Grade D")
+  else:
+    print("FAIl")
   ```
   ⚙️ Output:
   >Enter Marks of 5 Subject: 91 92 93 94 95
