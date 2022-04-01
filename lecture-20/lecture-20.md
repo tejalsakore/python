@@ -3,7 +3,7 @@
   <img  src="./../assets/header.png" />
 </p>
 
-# Lecture-12 Math Modules , Recursion in Python
+# Lecture-20 Math Modules , Recursion in Python
 
 ## math.ceil() Method
 
