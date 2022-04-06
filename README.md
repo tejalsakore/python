@@ -18,7 +18,7 @@
 
 ## 👉 [Lecture-9 Sets](/lecture-9/lecture-9.md)
 
-## 👉 [Lecture-10 Sets](/lecture-10/lecture-10.md)
+## 👉 [Lecture-10 Dictionary in Python](/lecture-10/lecture-10.md)
 
 ## 👉 [Lecture-11 If, Elif](/lecture-11/lecture-11.md)
 
