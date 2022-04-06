@@ -25,3 +25,21 @@
 ## 👉 [Lecture-12 If else Ladder in Python](/lecture-12/lecture-12.md)
 
 ## 👉 [Lecture-13 Logical Operators in Python](/lecture-13/lecture-13.md)
+
+## 👉 [Lecture-14 Nested if-Statement And ASCII in Python](/lecture-14/lecture-14.md)
+
+## 👉 [Lecture-15 For Loop ,Break and Continue in Python](/lecture-15/lecture-15.md)
+
+## 👉 [Lecture-16 Loops On List,Tuples, Dictionary And While Loop in Python](/lecture-16/lecture-16.md)
+
+## 👉 [Lecture-17 While-loop,Practice Questions in Python](/lecture-17/lecture-17.md)
+
+## 👉 [Lecture-18 Arbitrary Arguments, Default Arguments in Python](/lecture-18/lecture-18.md)
+
+## 👉 [Lecture-19 Function in Python](/lecture-19/lecture-19.md)
+
+## 👉 [Lecture-20 Math Modules , Recursion in Python](/lecture-20/lecture-20.md)
+
+## 👉 [Lecture-21 OOPs Concept in Python](/lecture-21/lecture-21.md)
+
+## 👉 [Lecture-22 Getter and Setter ,Four Pillars Methods in Python](/lecture-22/lecture-22.md)
