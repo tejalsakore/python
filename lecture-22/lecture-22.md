@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img  src="./../assets/header.png" />
+  <img  src="./../assets/header.png?" />
 </p>
 
 # Lecture-22 Getter and Setter ,Four Pillars Methods in Python

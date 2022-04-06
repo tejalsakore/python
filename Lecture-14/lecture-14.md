@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img  src="./../assets/header.png" />
+  <img  src="./../assets/header.png?" />
 </p>
 
 # Lecture-14 Nested if-Statement And ASCII  in Python

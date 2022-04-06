@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img  src="./../assets/header.png" />
+  <img  src="./../assets/header.png?" />
 </p>
 
 # Lecture-5 Input for Multiple values And String Operations in Python

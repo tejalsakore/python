@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img  src="./../assets/header.png" />
+  <img  src="./../assets/header.png?" />
 </p>
 
 # Lecture-4 User Input & Type Casting in Python

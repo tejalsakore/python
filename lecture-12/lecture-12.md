@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img  src="./../assets/header.png" />
+  <img  src="./../assets/header.png?" />
 </p>
 
 # Lecture-12 If else Ladder in Python
