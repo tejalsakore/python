@@ -11,17 +11,17 @@ Python allows for user input.
 That means we are able to ask the user for input.
 input()=To take input from user.
 
-Example=
+Example:
 ```python
 val=input("Message")
 ```
 ```python
-name=input("Enetr Yourname :")
+name=input("Enter Your Name :")
 print(name)
 ```
 Formatting Output
 ```python
-name=input("Enetr Yourname :")
+name=input("Enter Your Name :")
 print("Good Evening {}".format(name))
 ```
 ```python
@@ -33,7 +33,7 @@ print(sum)
 
 ## Type Casting 
 Type Casting is the method to convert the variable data type into a certain data type in order to the operation required to be performed by users.<br><br>
-Example=
+Example:
 ```python
 val1=int(input("Enter val1:"))
 val2=int(input("Enter val2:"))
@@ -58,7 +58,7 @@ print("sum of {} and {} is {}".format(val1,val2,sum))
 
 ## 🏠 HomeWork
 
->Write a program to calculate bill when `rate` and `quantity` is given by user.
+> Write a program to calculate bill when `rate` and `quantity` is given by user.
 
 💡 HINT: use formula `bill` = `rate` * `quantity`, take input for `rate` and `quantity` from user.
 
