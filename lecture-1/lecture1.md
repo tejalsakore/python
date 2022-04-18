@@ -17,7 +17,7 @@ It was created by Guido van Rossum, and released in 1991.
 
 ## 🤔 How Print Function Work 
 
-Print Function Accept String (String means a plan Text or Group Of Character) And Gives output on standard  output Device And in this case Our Screen is the  Standard Output Device.
+Print Function Accept String (String means a plain Text or Group Of Character) And Gives output on standard  output Device And in this case Our Screen is the  Standard Output Device.
 
 
 
