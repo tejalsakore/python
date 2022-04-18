@@ -18,7 +18,7 @@ print("roadtocode4u")
 ```
 2. Multiline Comment ("""   """)
 
-In Python Triple double quote (""") and single quote (''') are used for Multi-line commenting.Multi-line comment is useful when we need to comment on many lines. 
+In Python Triple double quote (""") and triple single quote (''') are used for Multi-line commenting.Multi-line comment is useful when we need to comment on many lines. 
 ```python
 """
 This is a comment
