@@ -3,24 +3,24 @@
   <img  src="./../assets/header.png?" />
 </p>
 
-# Lecture-8 Tuple in Python
+# Lecture-8 Tuples in Python
 
-## Tuple
-Tuple are used to store multiple values in a single variable.
+## Tuples
+Tuples are used to store multiple values in a single variable.
 
 ## Properties Of Tuple
 
-* Ordered =
+* Ordered :
 
 Tuples are an ordered sequences of items, just like lists.
 
-* Unchangeable =
+* Unchangeable :
 
-Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created.
+Tuples are unchangeable, means that we cannot change, add or remove items after the tuple has been created.
 
-* Allow Duplicates =
+* Allow Duplicates :
 
-tuples are indexed, they can have items with the same value.
+Tuples are indexed, they can have items with the same value.
 
 ## Manipulation of Tuple Example 
 
@@ -49,7 +49,7 @@ print(PythonStudent.count("Gauri"))
 
 ## Concatenation of String
 
-To concatenate, or combine, two strings you can use the + operator.
+To concatenate or combine two strings you can use the '+' operator.
 ```python
 a = "Hello"
 b = "World"
@@ -57,9 +57,9 @@ c = a + b
 print(c)
 ```
 ## 🏠 HomeWork
->🚁Write a program to change value touple to using extra overhead work.
+> 🚁Write a program to change value touple to using extra overhead work.
 
->🛰️Write a program to use function index,count and also perform concatenation of two tuple.
+> 🛰️Write a program to use function index,count and also perform concatenation of two tuple.
 ## 🔗 Some Useful Links
 
 ## 📖 References
