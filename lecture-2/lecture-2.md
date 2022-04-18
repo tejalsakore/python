@@ -18,7 +18,7 @@ Variables are used to store data, they take memory space based on the type of va
 ## Rules to declare a variable in python
 
 1. A variable name must start with a letter (a-z or A-Z) or the underscore (_) character.
-2. A variable name cannot start with a number.
+2. A variable name can not start with a number.
 3. variable are case-sensitive
 4. A variable name can not used reserved keyword
 5. A variable name can include (a-z,A-z, 0-9, and _ )
