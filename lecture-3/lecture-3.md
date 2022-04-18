@@ -16,7 +16,7 @@ print("Good Evening",end=" ")
 print("Hello Everyone")
 ```
 ## What is the format () function in Python?
-The Python format () function formats strings according to the position. 
+The format () function in Python formats strings according to the position. 
 
 Example=
 
@@ -37,7 +37,7 @@ print("Hello {place1} .Your Age is {place2} .Your DOB is {place3}". format(place
 ## Types of operators in Python
 <br>
 
-## Arithmetic Operators=
+## Arithmetic Operators :
 1. Addition Operator (+)
 
 ```python
@@ -94,9 +94,9 @@ b=20
 c=a//b
 print(c)
 ```
-## 🏠 HomeWork
+## 🏠 Homework
 
->Write a program to print student information and use format function to inject variable.
+> Write a program to print student information and use format function to inject variable.
 
 > Write a program to implement an arithmetic operators.
 
