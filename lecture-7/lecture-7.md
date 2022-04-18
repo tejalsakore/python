@@ -53,7 +53,7 @@ print(RandomData)
 
 The list is changeable, that we can change, add, and remove items in a list after it has been created.
 
-* Update =
+* Update :
 ```python
 Courses=['c','c++','Python','Java']
 print("Before Changes",Courses)
@@ -61,14 +61,14 @@ Courses[1]="C++ Programming"
 print("After Changes",Courses)
 ```
 
-* Insert =
+* Insert :
 ```python
 Courses=['c','c++','Python','Java']
 print("Before Changes:",Courses)
 Courses.insert(1,'Android Development')
 print("After Changes:",Courses)
 ```
-* Append =
+* Append :
 
 The append() method appends an element to the end of the list.
 ```python
@@ -77,7 +77,7 @@ print("Before Changes:",Courses)
 Courses.append('Android Development')
 print("After Changes:",Courses)
 ```
-* Remove =
+* Remove :
 
 The remove() method removes the specified item.
 ```python
@@ -86,7 +86,7 @@ Fruits.remove("banana")
 print(Fruits)
 ```
 
-* Pop =
+* Pop :
 
 The pop() method takes a single argument (index).
 ```python
@@ -94,14 +94,14 @@ Fruits = ["apple","banana","orange","grepes"]
 Fruits.pop(2)
 print(Fruits)
 ```
-* Delete =
+* Delete :
 ```python
 Fruits = ["apple","banana","orange","grepes"]
 del Fruits[1]
 print(Fruits)
 ```
 
-* Clear =
+* Clear :
 
 The clear() method removes all the elements from a list.
 
@@ -111,17 +111,17 @@ Fruits.clear()
 print(Fruits)
 ```
 
-* Sort =
+* Sort :
 
 List objects have a sort() method that will sort the list alphanumerically, ascending,descending.
 
-Ascending Order=
+Ascending Order :
 ```python
 alphabets=['A','R','V','S','P']
 alphabets.sort()
 print(alphabets)
 ```
-Descending Order=
+Descending Order :
 ```python
 alphabets=['A','R','V','S','P']
 alphabets.sort(reverse=True)
@@ -130,9 +130,9 @@ print(alphabets)
 
 ## 🏠 HomeWork
 
->🚁Write a program to implement deletion of items from list using four different methods. 
+> 🚁Write a program to implement deletion of items from list using four different methods. 
 
->🛰️Write a program to implement sort the given list in ascending and descending order.
+> 🛰️Write a program to implement sort the given list in ascending and descending order.
 
 ## 🔗 Some Useful Links
 
